@@ -1,11 +1,11 @@
-# SpatialMeet - Spatial Audio Conferencing Platform
+# AudioMeet - Audio Conferencing Platform
 
-SpatialMeet is a comprehensive spatial audio conferencing platform that enables immersive audio experiences through 3D positioning, WebRTC integration, and real-time user management.
+AudioMeet is a comprehensive spatial audio conferencing platform that enables immersive audio experiences through 3D positioning, WebRTC integration, and real-time user management.
 
 ## Features
 
 ### 🎯 Core Features
-- **Spatial Audio Technology**: Experience 3D positioned audio using Web Audio API
+- **Audio Technology**: Experience 3D positioned audio using Web Audio API
 - **Real-time Communication**: WebRTC-powered peer-to-peer audio streaming
 - **User Management**: Complete authentication system with registration and login
 - **Room-based Conferencing**: Create and join conference rooms with persistent data
@@ -80,10 +80,10 @@ npm run dev
 - **Join Room**: Enter a room ID to join an existing room
 - **View Rooms**: See all rooms you've created or joined
 
-### 3. Spatial Conference Experience
+### 3. Conference Experience
 - **Position Control**: Click and drag on the canvas to move your position
 - **Audio Controls**: Use mute/unmute button and volume slider
-- **Spatial Audio**: Toggle 3D audio on/off
+- **Audio**: Toggle 3D audio on/off
 - **Participant View**: See other users' positions and mute status
 
 ### 4. Real-time Features
