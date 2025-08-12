@@ -1,6 +1,6 @@
 # AudioMeet - Audio Conferencing Platform
 
-AudioMeet is a comprehensive spatial audio conferencing platform that enables immersive audio experiences through 3D positioning, WebRTC integration, and real-time user management.
+AudioMeet is a comprehensive audio conferencing platform that enables immersive audio experiences through 3D positioning, WebRTC integration, and real-time user management.
 
 ## Features
 
